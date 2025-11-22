@@ -13,9 +13,11 @@
 ## 📌 Current Goals
 - Finish Python basics  
 - Build 5 beginner projects  
-- Upload each project on GitHub  
+- Upload each project on GitHub
+  ## 📁 My Projects
 
-## 📁 My Projects
-- Coming soon...
+### 🔹 Personal Diary App (C Project)
+A simple and unique console-based diary app made in C using File Handling.  
+👉 *Project Link:* https://github.com/rajalaxmi986-sketch/personal---diary---c
 
 
