@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Raja Laxmi Panda 👋
 
-<!--
-**rajalaxmip986-sketch/rajalaxmip986-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+💻 Learning Python, C, Git & GitHub  
+🚀 Building small projects every week  
 
-Here are some ideas to get you started:
+## 🔧 Skills I'm Learning
+- Python  
+- C Programming  
+- Git & GitHub  
+- Basic Data Structures  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Goals
+- Finish Python basics  
+- Build 5 beginner projects  
+- Upload each project on GitHub  
+
+## 📁 My Projects
+- Coming soon...
+
+
